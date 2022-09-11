@@ -1,0 +1,5 @@
+export REACT_TO_MQTT_ACTION='ls /'
+export REACT_TO_MQTT_BROKER='broker.hivemq.com'
+export REACT_TO_MQTT_PORT='1883'
+export REACT_TO_MQTT_TOPIC='awesome/react/topic/#'
+export REACT_TO_MQTT_CLIENTPREFIX='react-client'
